@@ -19,27 +19,6 @@ without relying on trust — based on verifiability, traceability, and reproduci
 以下は本プロジェクトの統括設計書であり、最上位の基準文書である。  
 この内容が最優先の判断基準となる。
 
-# core
-
-A system for execution, collaboration, and rights enforcement  
-without relying on trust — based on verifiability, traceability, and reproducibility.
-
----
-
-## Philosophy (Summary)
-
-- Trust is not required — verifiability is
-- Facts must be provable
-- Systems should make lies difficult, not rely on honesty
-- Decisions must be based on records, evidence, and procedures
-
----
-
-## 原文（Japanese - Authoritative）
-
-以下は本プロジェクトの統括設計書であり、最上位の基準文書である。  
-この内容が最優先の判断基準となる。
-
 統括設計書 v0.1
 題名: 理念・目標・目的・小目的(テスト)による総括仕様
 
