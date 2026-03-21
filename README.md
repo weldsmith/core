@@ -12,6 +12,17 @@ without relying on trust — based on verifiability, traceability, and reproduci
 - Systems should make lies difficult, not rely on honesty
 - Decisions must be based on records, evidence, and procedures
 
+## Links
+
+GitHub:
+https://github.com/xxxx
+
+Discord:
+https://discord.gg/xxxx
+
+Twitter:
+https://x.com/xxxx
+
 ---
 
 ## 原文（Japanese - Authoritative）
